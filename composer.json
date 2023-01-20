@@ -30,7 +30,7 @@
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
-        "laravel/laravel": "^9.0",
+        "laravel/laravel": "^9.0"
     },
     "autoload": {
         "psr-0": {
