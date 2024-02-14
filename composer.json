@@ -25,12 +25,12 @@
     },
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^9.0",
+        "laravel/framework": "^10.10",
         "laravel/helpers": "*"
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
-        "laravel/laravel": "^9.0"
+        "laravel/laravel": "^10.10"
     },
     "autoload": {
         "psr-0": {
